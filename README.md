@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   
 
-[![KII1ua's GitHub stats](https://github-readme-stats.vercel.app/api?username=KII1ua)](https://github.com/anuraghazra/github-readme-stats)
+![KII1ua's GitHub stats](https://github-readme-stats.vercel.app/api?username=KII1ua&show_icons=true&theme=radical)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skfnx13)](https://solved.ac/skfnx13/)
