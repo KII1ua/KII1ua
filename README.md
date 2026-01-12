@@ -4,6 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skfnx13)](https://solved.ac/skfnx13/)
 
+<br>
 
 # 💪Skills
 ### Platforms & Languages
@@ -20,6 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
