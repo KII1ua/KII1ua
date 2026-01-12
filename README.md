@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KII1ua&layout=compact&theme=dracula)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KII1ua&theme=dark&locale=ko&hide_total_contributions=true)](https://git.io/streak-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skfnx13)](https://solved.ac/skfnx13/)
 
 # 💪Skills
