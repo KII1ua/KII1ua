@@ -1,9 +1,8 @@
-[![KII1ua's GitHub stats](https://github-readme-stats-sage-eight-95wegbn3du.vercel.app/api?username=KII1ua&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![KII1ua's GitHub stats](https://github-readme-stats-wuzf.vercel.app/api?username=KII1ua&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-sage-eight-95wegbn3du.vercel.app/api/top-langs/?username=KII1ua&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-wuzf.vercel.app/api/top-langs/?username=KII1ua&layout=compact&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skfnx13)](https://solved.ac/skfnx13/)
-
 
 # 💪Skills
 ### Platforms & Languages
